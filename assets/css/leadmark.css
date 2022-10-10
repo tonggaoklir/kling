@@ -2942,7 +2942,7 @@ input[type="button"].btn-block {
 }
 .nav-tabs .nav-link.disabled {
   color: #6c757d;
-  background-color: transparent;
+  background-color:  #ff6e42;
   border-color: transparent;
 }
 
